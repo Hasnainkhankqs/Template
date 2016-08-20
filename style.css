@@ -1,54 +1,45 @@
-.body{
+body{
     margin: 0em;
     padding:0em;
 }
-
 .container{
-    width: 55em;
-    height: 40em;
-    border: 0.3em inset black;
-    margin-left: 4em;
-    padding:1em;
-}
-nav{
-    margin-left: 9em;
-}
-hr{
-    width:31em;
-}
-.hr-1{
-    height: 0.1em;
-    background-color: black;
-}
-.img-1{
-    left:28em;
-    position: relative;
-}
-ul li {
-    display: inline;
-    margin: 1em;
+    width:60%;
+    height:700px;
+    margin: 5px auto;
+    border: 3px double black;
 }
 .sub-container{
-    width: 20em;
-    height: 3em;
-    letter-spacing: 0.2em;
-    padding:1.5em;
-    border:0.2em solid gray;
-    margin: 2em;
-    margin-left: 15em;   
+    width:60%;
+    margin: 50px auto;
+
 }
-a > .red{
-    color:red;
+ul li{
+    display: inline;
+    margin: 5px;
+}
+ul{
+    padding: 20px;
+    border-top: 3px solid black;
+    border-bottom: 1px solid black;
 }
 p{
-    margin: 1em;
-    width: 33em;
-        position: relative;
-    left:11em;
-    letter-spacing: 0.2em;
+    letter-spacing: 5px;
+    text-align: center;
+}
+.para-container{
+    border:1px inset black;
+    letter-spacing: 4px;
+    padding:5px;    
+    width:70%;
+    text-align: center;
+    margin-left: 50px;
+}
+.img-1{
+    margin-left: 50%;
 }
 .img-2{
-    position: relative;
-    left:12em;
-    width:31em;
+    width:100%;
+}
+.red{
+    color:red;
 }
