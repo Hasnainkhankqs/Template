@@ -1,0 +1,23 @@
+.body{
+    margin: 0em;
+    padding:0em;
+}
+
+.container{
+    width: 20em;
+    height: 20em;
+    border: 2em inset gray;
+}
+.img-1{
+    margin-left:4em;
+}
+ul li {
+    display: inline;
+    margin: 1em;
+}
+.sub-container{
+    width: 5em;
+    height: 6em;
+    letter-spacing: 0.2em;
+    padding:1em;
+}
