@@ -43,3 +43,13 @@ p{
 .red{
     color:red;
 }
+/*For service*/
+.service-container{
+    margin:5px auto;
+    width:80%;
+    height: 800px;
+    border:1px double gray;
+}
+.service-banner{
+        width:40%;
+}

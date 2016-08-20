@@ -1,0 +1,18 @@
+html{
+    background-image: url(./images/service-background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.service-container{
+    background-image: url("./images/service-container.jpg");
+    background-repeat: no-repeat;
+    margin:5px auto;
+    width:80%;
+    height: 800px;
+    border:3px double gray;
+}
+.service-banner img{
+        width:800px;
+        height: 250px;
+        margin: 0px 40px 40px 90px ;
+}
