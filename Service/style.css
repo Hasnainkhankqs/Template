@@ -10,9 +10,35 @@ html{
     width:80%;
     height: 800px;
     border:3px double gray;
+    box-shadow: 6px 7px 20px black;
 }
 .service-banner img{
         width:800px;
         height: 250px;
         margin: 0px 40px 40px 90px ;
+        box-shadow: 3px 2px 50px black;
+}
+ul li{
+    display: inline-block;
+    border:1px solid black; 
+    margin: 10px;
+    padding:20px;
+    background-color:darkgray;
+  
+    
+    }
+li:hover{
+box-shadow: 3px 2px 15px black;
+  background-color: lightgrey;
+
+}
+a{
+    text-decoration: none;
+}
+.nav{
+    box-shadow: 3px 4px 40px black; 
+    height: 450px;
+    margin: 20px 200px 200px 150px; 
+    width:700px;
+    border: 1px solid black;
 }
