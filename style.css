@@ -4,20 +4,50 @@
 }
 
 .container{
-    width: 20em;
-    height: 20em;
-    border: 2em inset gray;
+    width: 55em;
+    height: 40em;
+    border: 0.3em inset black;
+    margin-left: 4em;
+    padding:1em;
+}
+nav{
+    margin-left: 9em;
+}
+hr{
+    width:31em;
+}
+.hr-1{
+    height: 0.1em;
+    background-color: black;
 }
 .img-1{
-    margin-left:4em;
+    left:28em;
+    position: relative;
 }
 ul li {
     display: inline;
     margin: 1em;
 }
 .sub-container{
-    width: 5em;
-    height: 6em;
+    width: 20em;
+    height: 4em;
     letter-spacing: 0.2em;
-    padding:1em;
+    padding:1.5em;
+    border:0.2em solid gray;
+    margin: 2em;
+    margin-left: 15em;   
+}
+a > .red{
+    color:red;
+}
+p{
+    margin: 1em;
+    width: 25em;
+        position: relative;
+    left:15em;
+    letter-spacing: 0.2em;
+}
+.img-2{
+    position: relative;
+    left:15em;
 }
