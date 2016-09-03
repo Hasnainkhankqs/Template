@@ -13,7 +13,7 @@ html{
     box-shadow: 6px 7px 20px black;
 }
 .service-banner img{
-        width:800px;
+        width:600px;
         height: 250px;
         margin: 0px 40px 40px 90px ;
         box-shadow: 3px 2px 50px black;
@@ -30,6 +30,8 @@ ul li{
 li:hover{
 box-shadow: 3px 2px 15px black;
   background-color: lightgrey;
+  transform:scale(1.2);
+  border-radius:10px;
 
 }
 a{
@@ -38,7 +40,7 @@ a{
 .nav{
     box-shadow: 3px 4px 40px black; 
     height: 450px;
-    margin: 20px 200px 200px 150px; 
+    margin: 20px 200px 200px 50px; 
     width:700px;
     border: 1px solid black;
 }
